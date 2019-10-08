@@ -1,7 +1,7 @@
 
-# Classic Pong 🎮
+# Classic Pong
 
-Classic Pong game, developed while learning the basics of JavaScript language.
+Classic Pong game, developed while learning the basics of JavaScript language. 👩🏻‍💻
 
 ## How to play
 
